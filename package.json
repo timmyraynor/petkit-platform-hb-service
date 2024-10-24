@@ -1,19 +1,19 @@
 {
-  "name": "homebridge-plugin-name",
-  "displayName": "Plugin Name",
+  "name": "petkit-platform-hb-service",
+  "displayName": "Homebridge Service for Petkit Platform",
   "type": "module",
   "version": "1.0.0",
   "private": true,
-  "description": "A short description about what your plugin does.",
-  "author": "Your Name",
+  "description": "Homebridge plugin for Petkit Food Dispensor and More",
+  "author": "qinyujue@gmail.com",
   "license": "Apache-2.0",
-  "homepage": "https://github.com/USERNAME/GITHUB_PROJECT_NAME#readme",
+  "homepage": "https://github.com/timmyraynor/petkit-platform-hb-service#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/USERNAME/GITHUB_PROJECT_NAME.git"
+    "url": "https://github.com/timmyraynor/petkit-platform-hb-service.git"
   },
   "bugs": {
-    "url": "https://github.com/USERNAME/GITHUB_PROJECT_NAME/issues"
+    "url": "https://github.com/timmyraynor/petkit-platform-hb-service/issues"
   },
   "keywords": [
     "homebridge-plugin"
